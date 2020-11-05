@@ -1,0 +1,70 @@
+* {
+  font-family:verdana,sans-serif;
+  font-size  :14pt;
+ }
+
+.center {
+text-align :center;
+}
+#logo {
+font-family:georgia;
+font-weight:bold;
+font-style :italic;
+font-size  :97px;
+color      :rgb(214, 216, 113);
+background-color: rgb(216, 112, 27);
+}
+#robin {
+position           :relative;
+border             :0px;
+margin-left        :-8px;
+margin-right       :0px;
+-moz-box-shadow    :0px 0px 0px;
+-webkit-box-shadow :0px 0px 0px;
+box-shadow         :0px 0px 0px;
+}
+
+.username{
+  text-align :center;
+  background :white;
+  color      :black;
+  font-family:helvetica;
+  font-size  :20ptx;
+  padding    :4px;
+}
+.tables{
+position: relative;
+  margin: auto;
+  text-align: center;
+background-color: lightgreen;
+border-color: limegreen;
+}
+.error1{
+color: royalblue;
+font-size: 30px;
+
+  text-align: center;
+}
+.comprastitulo{
+font-size: 80px;
+text-align: center;
+padding-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

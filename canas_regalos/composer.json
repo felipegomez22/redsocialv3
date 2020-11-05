@@ -1,0 +1,12 @@
+{
+    "name": "principal/sistema",
+    "description": "sistema bulma",
+    "type": "project",
+    "authors": [
+        {
+            "name": "felipe gomez",
+            "email": "pipogomez2002@gmail.com"
+        }
+    ],
+    "require": {}
+}

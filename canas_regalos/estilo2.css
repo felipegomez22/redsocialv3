@@ -1,0 +1,39 @@
+* {
+    font-family:verdana,sans-serif;
+    font-size  :14pt;
+   }
+
+.center {
+ text-align :center;
+ }
+#logo {
+ font-family:georgia;
+ font-weight:bold;
+ font-style :italic;
+ font-size  :97px;
+ color      :forestgreen;
+ background-color: sienna;
+}
+#robin {
+ position           :relative;
+ border             :0px;
+ margin-left        :-8px;
+ margin-right       :0px;
+ -moz-box-shadow    :0px 0px 0px;
+ -webkit-box-shadow :0px 0px 0px;
+ box-shadow         :0px 0px 0px;
+}
+
+.username{
+    text-align :center;
+    background :white;
+    color      :sienna;
+    font-family:helvetica;
+    font-size  :20ptx;
+    padding    :4px;
+ }
+.tables{
+    margin: auto;
+    margin-left:-8px;
+    background-color: cornflowerblue;
+}
